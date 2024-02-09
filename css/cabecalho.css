@@ -97,8 +97,7 @@
     .logo {          
         display: flex;
         flex-direction: column;
-        justify-content: flex-start;
-       
+        justify-content: flex-start;       
     }
     .cabecalho{
         display: flex;
@@ -110,8 +109,7 @@
     .cabecalho__navegacao { 
         align-items: center;
         display: flex;
-        flex-direction: row;  
-              
+        flex-direction: row;                
     }
           
     .cabecalho__link {
