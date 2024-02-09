@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Phudu:wght@300;400;500;600;700;800&display=swap');
 :root {
     --azul-medio: #96B6C5;
     --azul-claro: #ADC4CE;
@@ -13,7 +14,7 @@
 
 body {
     background-color: var(--branco);
-    font-family: var(--Centeio);
+    font-family: Phudu;
     margin: 0px;
 }
 
@@ -26,7 +27,7 @@ body {
     position: fixed;
     bottom: 15px;
     right: 10px;
-    z-index: 999;
+    z-index: 999;    
 }
 
 @media screen and (min-width:375px) {
